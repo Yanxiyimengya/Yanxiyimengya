@@ -100,20 +100,6 @@ Interest  : 游戏开发 / 模组 / 像素画</pre>
 </div>
 
 <div align="center">
-  <a href="https://yanxiyimengya.github.io/Yanxiyimengya/">
-    <img width="1120" src="https://raw.githubusercontent.com/Yanxiyimengya/Yanxiyimengya/main/assets/slime-cube-preview.svg" alt="slime cube canvas preview" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://yanxiyimengya.github.io/Yanxiyimengya/">
-    <img src="https://img.shields.io/badge/Play-Slime%20Cube%20Canvas-06B6D4?style=for-the-badge&logo=html5&logoColor=white" alt="Open slime cube demo" />
-  </a>
-</div>
-
-## Connect
-
-<div align="center">
   <a href="https://github.com/Yanxiyimengya">
     <img src="https://img.shields.io/badge/GitHub-Yanxiyimengya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
