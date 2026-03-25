@@ -95,18 +95,6 @@ Interest  : 游戏开发 / 模组 / 像素画</pre>
   </picture>
 </div>
 
-## Air Battle Mode
-
-<p align="center">
-  把原来的 Snake Mode 改成一个更有游戏感的飞机大战展示区。
-  <br/>
-  下方主机体会持续开火，上方敌机会错峰刷出，整体尺寸也做得更宽更大。
-</p>
-
-<div align="center">
-  <img width="1120" src="https://raw.githubusercontent.com/Yanxiyimengya/Yanxiyimengya/main/assets/air-battle.svg" alt="air battle game animation" />
-</div>
-
 ## Connect
 
 <div align="center">
