@@ -29,13 +29,35 @@
   同时也是一名 B 站 UP 主，喜欢把灵感做成真正能玩、能跑、能分享的东西。
 </p>
 
+<p>
+<img src="assets/motou.gif" alt="摸头!!!摸摸摸!!!">
+</p>
+
 <table>
   <tr>
     <td width="50%">
-      <pre lang="text">Name      : 烟汐忆梦_YM
-Role      : 游戏开发者 / 前端工程师 / UP 主
-Focus     : Godot Engine
-Interest  : 游戏开发 / 模组 / 像素画</pre>
+      <div align="left">
+        <img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%90%8D%E7%89%87-%E7%83%9F%E6%B1%90%E5%BF%86%E6%A2%A6__YM-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0284c7" alt="个人名片" />
+      </div>
+      <br/>
+      <div align="left">
+        <img src="https://img.shields.io/badge/%E8%BA%AB%E4%BB%BD-%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E8%80%85%20%2F%20%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%20%2F%20UP%20%E4%B8%BB-0f172a?style=flat&logo=gamejolt&logoColor=white&labelColor=1e293b" alt="身份" />
+      </div>
+      <div align="left">
+        <img src="https://img.shields.io/badge/%E4%B8%93%E6%B3%A8-Godot%20Engine-0f172a?style=flat&logo=godotengine&logoColor=white&labelColor=1e293b" alt="专注方向" />
+      </div>
+      <div align="left">
+        <img src="https://img.shields.io/badge/%E5%85%B4%E8%B6%A3-%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%20%2F%20%E6%A8%A1%E7%BB%84%20%2F%20%E5%83%8F%E7%B4%A0%E7%94%BB-0f172a?style=flat&logo=aseprite&logoColor=white&labelColor=1e293b" alt="兴趣方向" />
+      </div>
+      <div align="left">
+        <img src="https://img.shields.io/badge/%E9%A3%8E%E6%A0%BC-%E5%96%9C%E6%AC%A2%E6%8A%8A%E7%81%B5%E6%84%9F%E5%81%9A%E6%88%90%E7%9C%9F%E6%AD%A3%E8%83%BD%E7%8E%A9%E7%9A%84%E4%BD%9C%E5%93%81-0f172a?style=flat&logo=vercel&logoColor=white&labelColor=1e293b" alt="创作风格" />
+      </div>
+      <br/>
+      <div align="left">
+        <img src="https://img.shields.io/badge/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91-0ea5e9?style=flat&logo=godotengine&logoColor=white" alt="游戏开发" />
+        <img src="https://img.shields.io/badge/%E6%A8%A1%E7%BB%84-06b6d4?style=flat&logo=unity&logoColor=white" alt="模组" />
+        <img src="https://img.shields.io/badge/%E5%83%8F%E7%B4%A0%E7%94%BB-0891b2?style=flat&logo=aseprite&logoColor=white" alt="像素画" />
+      </div>
     </td>
     <td width="50%">
       <strong>主要技术栈</strong>
