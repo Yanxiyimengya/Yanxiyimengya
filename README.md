@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/cube.svg" width="460" alt="rotating 3D cube" />
+  <img src="assets/cube.svg" width="320" alt="rotating 3D cube" />
 </div>
 
 ## 关于我
