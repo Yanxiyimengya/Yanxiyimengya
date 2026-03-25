@@ -99,14 +99,6 @@ Interest  : 游戏开发 / 模组 / 像素画</pre>
   </picture>
 </div>
 
-## Slime Cube Canvas
-
-<p align="center">
-  GitHub Profile README 本身不能直接运行带脚本的 canvas 交互，所以这里放一个可点击预览卡片。
-  <br/>
-  点开之后是完整的交互版：大号半透明立方体包着一个实心小立方体，鼠标靠近会轻微转向，点击会像史莱姆一样弹动。
-</p>
-
 <div align="center">
   <a href="https://yanxiyimengya.github.io/Yanxiyimengya/">
     <img width="1120" src="https://raw.githubusercontent.com/Yanxiyimengya/Yanxiyimengya/main/assets/slime-cube-preview.svg" alt="slime cube canvas preview" />
