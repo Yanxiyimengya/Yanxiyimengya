@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:0369a1,100:22d3ee&text=Yanxiyimengya&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=%E7%83%9F%E6%B1%90%E5%BF%86%E6%A2%A6_YM%20%7C%20Godot%20%C3%97%20Python%20%C3%97%20Game%20Tools&descAlignY=60&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:111827,50:0369a1,100:06b6d4&text=Yanxiyimengya&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=%E7%83%9F%E6%B1%90%E5%BF%86%E6%A2%A6_YM%20%7C%20Game%20Dev%20%C3%97%20Bilibili%20UP%20%C3%97%20Godot%20Tools&descAlignY=60&descSize=18" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=980&lines=Build+interesting+things.;Godot+%7C+GDScript+%7C+Python+%7C+C%2B%2B;Game+Dev%2C+Modding%2C+Tools%2C+Automation." alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=980&lines=Build+games%2C+tools+and+cool+experiences.;Godot+%7C+GDScript+%7C+Python+%7C+C%2B%2B;Game+Developer+and+Bilibili+Creator." alt="typing animation" />
 </div>
 
 <div align="center">
@@ -13,6 +13,9 @@
   <a href="https://github.com/Yanxiyimengya?tab=followers">
     <img src="https://img.shields.io/github/followers/Yanxiyimengya?style=for-the-badge&logo=github&label=Followers&color=0284c7" alt="followers" />
   </a>
+  <a href="https://space.bilibili.com/481430814">
+    <img src="https://img.shields.io/badge/Bilibili-%E7%83%9F%E6%B1%90%E5%BF%86%E6%A2%A6__YM-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili home" />
+  </a>
   <a href="https://github.com/Yanxiyimengya/Yanxiyimengya">
     <img src="https://img.shields.io/github/last-commit/Yanxiyimengya/Yanxiyimengya?style=for-the-badge&logo=github&label=Updated&color=0891b2" alt="last update" />
   </a>
@@ -20,13 +23,16 @@
 
 ## About Me
 
-> 这里主要记录我做过的游戏项目、Godot 相关尝试、修复工具，以及一些有点意思的自动化脚本。  
-> 喜欢把灵感做成真正能跑起来的东西。
+<p align="center">
+  这里主要记录我做过的游戏项目、Godot 相关尝试、修复工具，以及一些有意思的自动化脚本。<br/>
+  同时也是一名 B 站 UP 主，喜欢把灵感做成真正能玩、能跑、能分享的东西。
+</p>
 
 <table>
   <tr>
     <td width="50%">
       <pre lang="text">Name      : 烟汐忆梦_YM
+Role      : Game Developer / Tool Maker / UP 主
 Focus     : Godot / GDScript / Python
 Interest  : Game Dev / Modding / Tooling
 Style     : Build first, polish later
@@ -35,19 +41,25 @@ Status    : Exploring more fun projects</pre>
     <td width="50%">
       <strong>Main Stack</strong>
       <p>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
+        <img src="https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       </p>
-      <strong>Currently Into</strong>
-      <p>游戏开发<br/>引擎扩展<br/>实用修复工具<br/>自动化脚本</p>
+      <strong>Channel</strong>
+      <p>
+        <a href="https://space.bilibili.com/481430814">
+          <img src="https://img.shields.io/badge/B%E7%AB%99%E4%B8%BB%E9%A1%B5-space.bilibili.com%2F481430814-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili channel" />
+        </a>
+      </p>
+      <strong>Focus</strong>
+      <p>游戏开发<br/>Godot 工具<br/>Modding<br/>自动化脚本</p>
     </td>
   </tr>
 </table>
 
-## Live Stats
+## Live Dashboard
 
 <table>
   <tr>
@@ -84,42 +96,19 @@ Status    : Exploring more fun projects</pre>
   </picture>
 </div>
 
-## Featured Projects
+## Snake Mode
 
-<table>
-  <tr>
-    <td width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Yanxiyimengya&repo=SmithyLegend&hide_border=true&theme=github_dark_dimmed" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Yanxiyimengya&repo=SmithyLegend&hide_border=true&theme=default" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yanxiyimengya&repo=SmithyLegend&hide_border=true&theme=default" alt="SmithyLegend" />
-      </picture>
-    </td>
-    <td width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Yanxiyimengya&repo=Sts2Repairer&hide_border=true&theme=github_dark_dimmed" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Yanxiyimengya&repo=Sts2Repairer&hide_border=true&theme=default" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yanxiyimengya&repo=Sts2Repairer&hide_border=true&theme=default" alt="Sts2Repairer" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Yanxiyimengya&repo=UndertaleMakerX&hide_border=true&theme=github_dark_dimmed" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Yanxiyimengya&repo=UndertaleMakerX&hide_border=true&theme=default" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yanxiyimengya&repo=UndertaleMakerX&hide_border=true&theme=default" alt="UndertaleMakerX" />
-      </picture>
-    </td>
-    <td width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Yanxiyimengya&repo=Godot-DaturaRTC&hide_border=true&theme=github_dark_dimmed" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Yanxiyimengya&repo=Godot-DaturaRTC&hide_border=true&theme=default" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yanxiyimengya&repo=Godot-DaturaRTC&hide_border=true&theme=default" alt="Godot-DaturaRTC" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  把贡献图变成一条会自动刷新的贪吃蛇，让主页更像一个游戏开发者的空间。
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yanxiyimengya/Yanxiyimengya/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yanxiyimengya/Yanxiyimengya/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Yanxiyimengya/Yanxiyimengya/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+  </picture>
+</div>
 
 ## Connect
 
@@ -127,12 +116,15 @@ Status    : Exploring more fun projects</pre>
   <a href="https://github.com/Yanxiyimengya">
     <img src="https://img.shields.io/badge/GitHub-Yanxiyimengya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
+  <a href="https://space.bilibili.com/481430814">
+    <img src="https://img.shields.io/badge/Bilibili-UP%20%E4%B8%BB%E9%A1%B5-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili homepage" />
+  </a>
 </div>
 
 <div align="center">
-  <sub>Dynamic cards are powered by GitHub Readme Stats, Streak Stats and Activity Graph.</sub>
+  <sub>Dynamic cards are powered by GitHub Readme Stats, Streak Stats, Activity Graph and a snake workflow generated from your contribution graph.</sub>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:0369a1,100:22d3ee" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:0369a1,100:06b6d4" alt="footer" />
 </div>
