@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:111827,50:0369a1,100:06b6d4&text=Yanxiyimengya&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=%E7%83%9F%E6%B1%90%E5%BF%86%E6%A2%A6_YM%20%7C%20Game%20Dev%20%C3%97%20Bilibili%20UP%20%C3%97%20Godot%20Tools&descAlignY=60&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:111827,50:0369a1,100:06b6d4&text=Yanxiyimengya&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=%E7%83%9F%E6%B1%90%E5%BF%86%E6%A2%A6_YM&descAlignY=60&descSize=18" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=980&lines=Build+games%2C+tools+and+cool+experiences.;Godot+%7C+GDScript+%7C+Python+%7C+C%2B%2B;Game+Developer+and+Bilibili+Creator." alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=980&lines=热爱计算机技术;热爱游戏" alt="typing animation" />
 </div>
 
 <div align="center">
@@ -40,8 +40,11 @@ Interest  : 游戏开发 / 模组 / 像素画</pre>
       <strong>主要技术栈</strong>
       <p>
         <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
+        <img src="https://img.shields.io/badge/GameMaker-000000?style=flat-square&logo=gamemaker&logoColor=white" alt="GameMaker" />
+        <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" alt="Unity" />
         <img src="https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -107,7 +110,7 @@ Interest  : 游戏开发 / 模组 / 像素画</pre>
 </div>
 
 <div align="center">
-  <sub>Dynamic cards are powered by GitHub Readme Stats, Streak Stats, Activity Graph and a custom animated SVG mini game.</sub>
+  <sub>Email : 193446537@qq.com</sub>
 </div>
 
 <div align="center">
