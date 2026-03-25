@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&multiline=true&width=980&lines=热爱计算机技术;热爱游戏" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&multiline=true&width=980&height=90&lines=%E7%83%AD%E7%88%B1%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF;%E7%83%AD%E7%88%B1%E6%B8%B8%E6%88%8F" alt="typing animation" />
 </div>
 
 <div align="center">
@@ -47,6 +47,7 @@ Interest  : 游戏开发 / 模组 / 像素画</pre>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
       <strong>频道</strong>
