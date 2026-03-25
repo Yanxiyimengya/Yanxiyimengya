@@ -26,10 +26,10 @@
 
 <table>
   <tr>
-    <td width="38%" align="center">
-      <img src="assets/motou.gif" width="260" alt="摸头!!!摸摸摸!!!" />
+    <td width="30%" align="center">
+      <img src="assets/motou.gif" width="100" alt="摸头!!!摸摸摸!!!" />
     </td>
-    <td width="62%" align="left">
+    <td width="70%" align="left">
       <p>
         这里主要记录我做过的游戏项目、Godot 相关尝试，以及一些有意思的自动化脚本。<br/>
         同时也是一名 B 站 UP 主，喜欢把灵感做成真正能玩、能跑、能分享的东西。
