@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=980&lines=热爱计算机技术;热爱游戏" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&multiline=true&width=980&lines=热爱计算机技术;热爱游戏" alt="typing animation" />
 </div>
 
 <div align="center">
