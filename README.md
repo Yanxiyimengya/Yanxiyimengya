@@ -56,7 +56,7 @@ Interest  : 游戏开发 / 模组 / 像素画</pre>
           <img src="https://img.shields.io/badge/B%E7%AB%99%E4%B8%BB%E9%A1%B5-space.bilibili.com%2F481430814-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili channel" />
         </a>
       </p>
-      <strong>Focus</strong>
+      <strong>重点</strong>
       <p>游戏开发<br/>Godot 工具<br/>Modding<br/>自动化脚本</p>
     </td>
   </tr>
@@ -97,6 +97,17 @@ Interest  : 游戏开发 / 模组 / 像素画</pre>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yanxiyimengya&bg_color=ffffff&color=0f172a&line=0284c7&point=0369a1&area=true&hide_border=true" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yanxiyimengya&bg_color=ffffff&color=0f172a&line=0284c7&point=0369a1&area=true&hide_border=true" alt="Contribution graph" />
   </picture>
+</div>
+
+## Slime Cube Preview
+
+<p align="center">
+  这里放的是一个 3D canvas 风格的史莱姆立方体预览：
+  外层是半透明立方体，内部是实心小立方体，并带有缓慢的透视旋转效果。
+</p>
+
+<div align="center">
+  <img width="1120" src="https://raw.githubusercontent.com/Yanxiyimengya/Yanxiyimengya/main/assets/slime-cube-preview.svg" alt="3D slime cube preview" />
 </div>
 
 <div align="center">
