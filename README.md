@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:111827,50:0369a1,100:06b6d4&text=Yanxiyimengya&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=%E7%83%9F%E6%B1%90%E5%BF%86%E6%A2%A6_YM&descAlignY=60&descSize=18" alt="header" />
+  <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:111827,50:0369a1,100:06b6d4&text=Yanxiyimengya&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=%E7%83%9F%E6%B1%90%E5%BF%86%E6%A2%A6_YM&descAlignY=60&descSize=18" alt="header" />-->
+  <img src="assets/header_bar.svg" alt="header" />
 </div>
 
 <div align="center">
@@ -46,8 +47,8 @@ Interest  : 游戏开发 / 模组 / 像素画</pre>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=sharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
       <strong>频道</strong>
@@ -113,5 +114,6 @@ Interest  : 游戏开发 / 模组 / 像素画</pre>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:0369a1,100:06b6d4" alt="footer" />
+  <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:0369a1,100:06b6d4" alt="footer" />-->
+  <img src="assets/footer_bar.svg" alt="footer" />
 </div>
