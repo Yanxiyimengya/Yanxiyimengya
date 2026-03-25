@@ -21,7 +21,7 @@
   </a>
 </div>
 
-## About Me
+## 关于我
 
 <p align="center">
   这里主要记录我做过的游戏项目、Godot 相关尝试，以及一些有意思的自动化脚本。<br/>
@@ -62,7 +62,7 @@ Interest  : 游戏开发 / 模组 / 像素画</pre>
   </tr>
 </table>
 
-## Live Dashboard
+<hr />
 
 <table>
   <tr>
