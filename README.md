@@ -24,14 +24,19 @@
 
 ## 关于我
 
-<p align="center">
-  这里主要记录我做过的游戏项目、Godot 相关尝试，以及一些有意思的自动化脚本。<br/>
-  同时也是一名 B 站 UP 主，喜欢把灵感做成真正能玩、能跑、能分享的东西。
-</p>
-
-<p>
-<img src="assets/motou.gif" alt="摸头!!!摸摸摸!!!">
-</p>
+<table>
+  <tr>
+    <td width="38%" align="center">
+      <img src="assets/motou.gif" width="260" alt="摸头!!!摸摸摸!!!" />
+    </td>
+    <td width="62%" align="left">
+      <p>
+        这里主要记录我做过的游戏项目、Godot 相关尝试，以及一些有意思的自动化脚本。<br/>
+        同时也是一名 B 站 UP 主，喜欢把灵感做成真正能玩、能跑、能分享的东西。
+      </p>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -55,7 +60,7 @@
       <br/>
       <div align="left">
         <img src="https://img.shields.io/badge/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91-0ea5e9?style=flat&logo=godotengine&logoColor=white" alt="游戏开发" />
-        <img src="https://img.shields.io/badge/%E6%A8%A1%E7%BB%84-06b6d4?style=flat&logo=unity&logoColor=white" alt="模组" />
+        <img src="https://img.shields.io/badge/%E6%A8%A1%E7%BB%84-06b6d4?style=flat&logo=steam&logoColor=white" alt="模组" />
         <img src="https://img.shields.io/badge/%E5%83%8F%E7%B4%A0%E7%94%BB-0891b2?style=flat&logo=aseprite&logoColor=white" alt="像素画" />
       </div>
     </td>
