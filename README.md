@@ -14,9 +14,6 @@
   <a href="https://github.com/Yanxiyimengya?tab=followers">
     <img src="https://img.shields.io/github/followers/Yanxiyimengya?style=for-the-badge&logo=github&label=Followers&color=0284c7" alt="followers" />
   </a>
-  <a href="https://space.bilibili.com/481430814">
-    <img src="https://img.shields.io/badge/Bilibili-%E7%83%9F%E6%B1%90%E5%BF%86%E6%A2%A6__YM-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili home" />
-  </a>
   <a href="https://github.com/Yanxiyimengya/Yanxiyimengya">
     <img src="https://img.shields.io/github/last-commit/Yanxiyimengya/Yanxiyimengya?style=for-the-badge&logo=github&label=Updated&color=0891b2" alt="last update" />
   </a>
@@ -35,7 +32,7 @@
     </td>
     <td width="70%" align="left">
       <p>
-        这里主要记录我做过的游戏项目、Godot 相关尝试，以及一些有意思的自动化脚本。<br/>
+        这里主要记录我做过的游戏项目、Godot 相关尝试，以及一些有意思的小玩意。<br/>
         同时也是一名 B 站 UP 主，喜欢把灵感做成真正能玩、能跑、能分享的东西。
       </p>
     </td>
@@ -89,7 +86,7 @@
         </a>
       </p>
       <strong>重点</strong>
-      <p>游戏开发<br/>Godot 工具<br/>Modding<br/>自动化脚本</p>
+      <p>游戏开发<br/>Godot 工具<br/>二创模组</p>
     </td>
   </tr>
 </table>
