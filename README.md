@@ -99,17 +99,6 @@ Interest  : 游戏开发 / 模组 / 像素画</pre>
   </picture>
 </div>
 
-## Slime Cube Preview
-
-<p align="center">
-  这里放的是一个 3D canvas 风格的史莱姆立方体预览：
-  外层是半透明立方体，内部是实心小立方体，并带有缓慢的透视旋转效果。
-</p>
-
-<div align="center">
-  <img width="1120" src="https://raw.githubusercontent.com/Yanxiyimengya/Yanxiyimengya/main/assets/slime-cube-preview.svg" alt="3D slime cube preview" />
-</div>
-
 <div align="center">
   <a href="https://github.com/Yanxiyimengya">
     <img src="https://img.shields.io/badge/GitHub-Yanxiyimengya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
