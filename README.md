@@ -25,7 +25,7 @@
 
 ## 关于我
 
-<table>
+<table width="100%">
   <tr>
     <td width="30%" align="center">
       <img src="assets/motou.gif" width="100" alt="摸头!!!摸摸摸!!!" />
