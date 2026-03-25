@@ -24,7 +24,7 @@
 ## About Me
 
 <p align="center">
-  这里主要记录我做过的游戏项目、Godot 相关尝试、修复工具，以及一些有意思的自动化脚本。<br/>
+  这里主要记录我做过的游戏项目、Godot 相关尝试，以及一些有意思的自动化脚本。<br/>
   同时也是一名 B 站 UP 主，喜欢把灵感做成真正能玩、能跑、能分享的东西。
 </p>
 
@@ -32,22 +32,21 @@
   <tr>
     <td width="50%">
       <pre lang="text">Name      : 烟汐忆梦_YM
-Role      : Game Developer / Tool Maker / UP 主
-Focus     : Godot / GDScript / Python
-Interest  : Game Dev / Modding / Tooling
-Style     : Build first, polish later
-Status    : Exploring more fun projects</pre>
+Role      : 游戏开发者 / 前端工程师 / UP 主
+Focus     : Godot Engine
+Interest  : 游戏开发 / 模组 / 像素画</pre>
     </td>
     <td width="50%">
-      <strong>Main Stack</strong>
+      <strong>主要技术栈</strong>
       <p>
         <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
         <img src="https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
-      <strong>Channel</strong>
+      <strong>频道</strong>
       <p>
         <a href="https://space.bilibili.com/481430814">
           <img src="https://img.shields.io/badge/B%E7%AB%99%E4%B8%BB%E9%A1%B5-space.bilibili.com%2F481430814-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili channel" />
@@ -96,18 +95,16 @@ Status    : Exploring more fun projects</pre>
   </picture>
 </div>
 
-## Snake Mode
+## Air Battle Mode
 
 <p align="center">
-  把贡献图变成一条会自动刷新的贪吃蛇，让主页更像一个游戏开发者的空间。
+  把原来的 Snake Mode 改成一个更有游戏感的飞机大战展示区。
+  <br/>
+  下方主机体会持续开火，上方敌机会错峰刷出，整体尺寸也做得更宽更大。
 </p>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yanxiyimengya/Yanxiyimengya/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yanxiyimengya/Yanxiyimengya/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Yanxiyimengya/Yanxiyimengya/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
-  </picture>
+  <img width="1120" src="https://raw.githubusercontent.com/Yanxiyimengya/Yanxiyimengya/main/assets/air-battle.svg" alt="air battle game animation" />
 </div>
 
 ## Connect
@@ -122,7 +119,7 @@ Status    : Exploring more fun projects</pre>
 </div>
 
 <div align="center">
-  <sub>Dynamic cards are powered by GitHub Readme Stats, Streak Stats, Activity Graph and a snake workflow generated from your contribution graph.</sub>
+  <sub>Dynamic cards are powered by GitHub Readme Stats, Streak Stats, Activity Graph and a custom animated SVG mini game.</sub>
 </div>
 
 <div align="center">
