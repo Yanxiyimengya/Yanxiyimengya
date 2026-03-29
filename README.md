@@ -93,24 +93,6 @@
 
 <hr />
 
-<table>
-  <tr>
-    <td width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yanxiyimengya&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark_dimmed" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Yanxiyimengya&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=default" />
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yanxiyimengya&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=default" alt="GitHub stats" />
-      </picture>
-    </td>
-    <td width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanxiyimengya&layout=compact&hide_border=true&langs_count=8&theme=github_dark_dimmed" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanxiyimengya&layout=compact&hide_border=true&langs_count=8&theme=default" />
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanxiyimengya&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages" />
-      </picture>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <picture>
